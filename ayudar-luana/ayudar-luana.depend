@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1697726030 source:c:\users\usuario\desktop\ayudar-luana\listassimples.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listasSimples.h"
+
+1697725428 c:\users\usuario\desktop\ayudar-luana\listassimples.h
+
+1697725884 source:c:\users\usuario\desktop\ayudar-luana\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listasSimples.h"
+
